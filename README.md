@@ -1,7 +1,7 @@
 FP Learning
 
 TODO:
-- [] Setting up project in Scala
+- [ ] Setting up project in Scala
 
 
 Done:
